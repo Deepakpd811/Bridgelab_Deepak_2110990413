@@ -10,4 +10,12 @@
 - finally keyword
 
 ---
+## **2025-01-29**
+
+### **Java DataTypes and more **
+- operator
+- ternary operator 
+- naming convenstion
+
+---
 
