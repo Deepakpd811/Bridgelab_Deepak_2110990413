@@ -18,4 +18,21 @@
 - naming convenstion
 
 ---
+## **2025-01-30**
+
+### ** String and array **
+- string vs stringBuilder vs stirngBuffer 
+- string methods - charAt(), toUpperCase(),toLowerCase() etc 
+- array 
+
+---
+## **2025-01-31**
+
+### ** class and object **
+- class and object  - class modifiers public final 
+- Access modifiers - public private protected default 
+- constructors - default constructors
+- methods
+
+---
 
