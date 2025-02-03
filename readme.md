@@ -35,4 +35,13 @@
 - methods
 
 ---
+## **2025-02-3**
+
+### ** OOP and principles **
+- this , super, instanceof
+- constructor, types of constructor, constructor channing
+- design princple - DRY, YAGANI,
+- Exmpale problem on Account deposits/withdrawl using opp
+
+---
 
