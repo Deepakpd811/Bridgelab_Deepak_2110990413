@@ -44,4 +44,9 @@
 - Exmpale problem on Account deposits/withdrawl using opp
 
 ---
+## **2025-02-4**
+
+### ** OOP and principles **
+- review
+---
 
