@@ -48,5 +48,15 @@
 
 ### ** OOP and principles **
 - review
+- Is-A , has-A inheritance
+- Association, aggregation, and composition
+---
+## **2025-02-5**
+
+### ** Avanced OOP **
+- Method Overloading/Method Overidding
+- class vs interface
+- abstrac class
+- Polymorphism - run-time and compline-time
 ---
 
