@@ -59,4 +59,10 @@
 - abstrac class
 - Polymorphism - run-time and compline-time
 ---
+## **2025-02-6**
+
+### ** Avanced OOP **
+- constructor channing
+- Bird Santutary problem
+---
 
