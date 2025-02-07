@@ -50,6 +50,7 @@
 - review
 - Is-A , has-A inheritance
 - Association, aggregation, and composition
+- class diagram
 ---
 ## **2025-02-5**
 
@@ -59,10 +60,20 @@
 - abstrac class
 - Polymorphism - run-time and compline-time
 ---
+
 ## **2025-02-6**
 
 ### ** Avanced OOP **
 - constructor channing
-- Bird Santutary problem
+- Bird Sansctuary problem
+---
+
+## **2025-02-7**
+
+### ** Avanced OOP **
+- encapsulation
+- inheritance and its types
+- sequence diagram
+- Line comparission problem
 ---
 
