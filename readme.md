@@ -75,5 +75,6 @@
 - inheritance and its types
 - sequence diagram
 - Line comparission problem
+- toString() method
 ---
 
